@@ -67,27 +67,6 @@ Tenho algumas preferências específicas em relação à linguagem:
 
 ---
 
-### 😄 Um Pouco de Humor e Cultura Nerd
-
-![Meme de Programação](https://i.imgur.com/nw9rBsN.jpg)
-*Fonte: [Imgur](https://imgur.com/nw9rBsN)*
-
----
-
-### 🎮 Referências Nerd
-
-- **Jogos Favoritos:**
-  - 🎮 The Legend of Zelda: Breath of the Wild
-  - 🎮 Final Fantasy VII
-  - 🎮 The Witcher 3: Wild Hunt
-
-- **Filmes e Séries Favoritos:**
-  - 🎬 Star Wars
-  - 🎬 The Matrix
-  - 📺 Stranger Things
-
-- **Citação Favorita:**
-  > "It's not a bug. It's a feature." - Todo programador em algum momento
 
 ---
 
