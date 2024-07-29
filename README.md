@@ -1,9 +1,9 @@
-x
+
 # Sobre Mim
 
-## Olá! Sou um Tech Lead apaixonado por tecnologia!
+## Olá! Sou um Tech Lead focado em tecnologia!
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Aqui está um resumo das minhas habilidades e projetos em que estou envolvido.
+Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos em que estou envolvido.
 
 ### Linguagens e Tecnologias que Domino
 
@@ -45,22 +45,23 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiênci
 ``` 
 ██████████████████ 80%
 ```
-
-### Projetos Atuais
-
-- **Blog:** Atualmente, estou desenvolvendo um blog utilizando Laravel no backend e Vue no frontend.
-- **Gerenciamento de Aluguéis:** Estou interessado em desenvolver um sistema para gerenciar aluguéis de apartamentos, com funcionalidades como cadastro do imóvel, valor, mensalidade e cadastro do locador e locatário.
-- **Infoconsig:** Atuo no projeto Infoconsig, uma plataforma robusta de gestão de consignados, otimizando processos e garantindo a segurança e eficiência.
+o projeto Infoconsig, uma plataforma robusta de gestão de consignados, otimizando processos e garantindo a segurança e eficiência.
 
 ### Abordagem de Testes
 
 Acredito na importância de testes dinâmicos e completos. Prefiro testes que não utilizem arquivos de mockup, mas que verifiquem a funcionalidade completa do sistema, garantindo a qualidade e a confiabilidade do software.
 
+### Versionamento
+
+Sou também um especialista em versionamento, utilizando ferramentas como Git para gerenciar o código-fonte de forma eficiente e colaborativa.
+
 ### Preferências Linguísticas
 
-Tenho algumas preferências específicas em relação à linguagem:
 
-- Prefiro códigos inteiros em exemplos, ao invés de partes de código.
-- Evito traduzir a palavra 'then' para 'então' em qualquer contexto.
+
+### Um Pouco de Humor
+
+![Meme de Programação](https://i.imgur.com/nw9rBsN.jpg)
+*Fonte: [Imgur](https://imgur.com/nw9rBsN)*
 
 Estou sempre em busca de novas oportunidades e desafios que me permitam crescer e contribuir com minha expertise. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
