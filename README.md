@@ -3,7 +3,7 @@
 
 ## Olá! Sou um Tech Lead focado em tecnologia! 👨‍💻
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos.
+Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos em que estou envolvido.
 
 ---
 
@@ -106,4 +106,30 @@ Estou sempre em busca de novas oportunidades e desafios que me permitam crescer 
 - 🐦 Twitter: [Seu Twitter](https://twitter.com/seu-twitter)
 - 🌐 Portfólio: [Seu Portfólio](https://www.seuportfolio.com)
 
+---
+
+### 🎉 Bônus Nerd
+
+- **Emoji Favorito:** 😎
+- **Linguagem Favorita:** 🐍 Python
+- **Superpoder:** Debugging a 3 AM 🌙
+- **Guilty Pleasure:** Maratonar anime enquanto código compila
+
 ![Footer](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+
+---
+
+### 🛠️ Ferramentas que Adoro
+
+- **Editor de Texto:** VSCode
+- **Controle de Versão:** Git
+- **Plataforma de Repositórios:** GitHub
+- **Terminal:** Zsh
+
+---
+
+### 🎨 Projeto dos Sonhos
+
+Construir uma aplicação que combine IA com IoT para criar uma casa inteligente que antecipa as necessidades dos moradores antes mesmo que eles percebam.
+
+![Dream Project](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
