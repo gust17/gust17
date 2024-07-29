@@ -3,7 +3,9 @@
 
 ## Olá! Sou um Tech Lead focado em tecnologia! 👨‍💻
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos em que estou envolvido.
+Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos.
+
+---
 
 ### 💻 Linguagens e Tecnologias que Domino
 
@@ -18,6 +20,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiênci
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Adonis.js](https://img.shields.io/badge/Adonis.js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+
+---
 
 ### ⚙️ Skills
 
@@ -46,9 +50,13 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiênci
 ██████████████████ 80%
 ```
 
+---
+
 ### 🔄 Habilidades de Versionamento
 
 Sou também um especialista em versionamento, utilizando ferramentas como Git para gerenciar o código-fonte de forma eficiente e colaborativa.
+
+---
 
 ### 📝 Preferências Linguísticas
 
@@ -57,10 +65,14 @@ Tenho algumas preferências específicas em relação à linguagem:
 - Prefiro códigos inteiros em exemplos, ao invés de partes de código.
 - Evito traduzir a palavra 'then' para 'então' em qualquer contexto.
 
+---
+
 ### 😄 Um Pouco de Humor e Cultura Nerd
 
 ![Meme de Programação](https://i.imgur.com/nw9rBsN.jpg)
 *Fonte: [Imgur](https://imgur.com/nw9rBsN)*
+
+---
 
 ### 🎮 Referências Nerd
 
@@ -77,8 +89,21 @@ Tenho algumas preferências específicas em relação à linguagem:
 - **Citação Favorita:**
   > "It's not a bug. It's a feature." - Todo programador em algum momento
 
+---
+
 ### 🚀 Vamos Codar!
 
 Estou sempre em busca de novas oportunidades e desafios que me permitam crescer e contribuir com minha expertise. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
 
 ![Let's Code](https://media.giphy.com/media/3o7aCVzLQdX7aET5Is/giphy.gif)
+
+---
+
+### 📫 Contato
+
+- 📧 Email: seuemail@exemplo.com
+- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- 🐦 Twitter: [Seu Twitter](https://twitter.com/seu-twitter)
+- 🌐 Portfólio: [Seu Portfólio](https://www.seuportfolio.com)
+
+![Footer](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
