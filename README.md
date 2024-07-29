@@ -3,7 +3,7 @@
 
 ## Olá! Sou um Tech Lead focado em tecnologia! 👨‍💻
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos em que estou envolvido.
+Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades.
 
 ---
 
@@ -95,7 +95,7 @@ Tenho algumas preferências específicas em relação à linguagem:
 
 Estou sempre em busca de novas oportunidades e desafios que me permitam crescer e contribuir com minha expertise. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
 
-![Let's Code](https://media.giphy.com/media/3o7aCVzLQdX7aET5Is/giphy.gif)
+![Let's Code](https://camo.githubusercontent.com/1cfbdd5d3ad63fe508c773db3ed7cfdfb9c5e01f2c19b3d9c1e6f7a69106df7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c34464775684c34553257796a646b61592f67697068792e676966)
 
 ---
 
