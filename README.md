@@ -58,17 +58,6 @@ Sou também um especialista em versionamento, utilizando ferramentas como Git pa
 
 ---
 
-### 📝 Preferências Linguísticas
-
-Tenho algumas preferências específicas em relação à linguagem:
-
-- Prefiro códigos inteiros em exemplos, ao invés de partes de código.
-- Evito traduzir a palavra 'then' para 'então' em qualquer contexto.
-
----
-
-
----
 
 ### 🚀 Vamos Codar!
 
