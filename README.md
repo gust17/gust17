@@ -45,23 +45,36 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiênci
 ``` 
 ██████████████████ 80%
 ```
-o projeto Infoconsig, uma plataforma robusta de gestão de consignados, otimizando processos e garantindo a segurança e eficiência.
 
-### Abordagem de Testes
-
-Acredito na importância de testes dinâmicos e completos. Prefiro testes que não utilizem arquivos de mockup, mas que verifiquem a funcionalidade completa do sistema, garantindo a qualidade e a confiabilidade do software.
-
-### Versionamento
+### Habilidades de Versionamento
 
 Sou também um especialista em versionamento, utilizando ferramentas como Git para gerenciar o código-fonte de forma eficiente e colaborativa.
 
 ### Preferências Linguísticas
 
+Tenho algumas preferências específicas em relação à linguagem:
 
+- Prefiro códigos inteiros em exemplos, ao invés de partes de código.
+- Evito traduzir a palavra 'then' para 'então' em qualquer contexto.
 
-### Um Pouco de Humor
+### Um Pouco de Humor e Cultura Nerd
 
 ![Meme de Programação](https://i.imgur.com/nw9rBsN.jpg)
 *Fonte: [Imgur](https://imgur.com/nw9rBsN)*
+
+### Referências Nerd
+
+- **Jogos Favoritos:**
+  - The Legend of Zelda: Breath of the Wild
+  - Final Fantasy VII
+  - The Witcher 3: Wild Hunt
+
+- **Filmes e Séries Favoritos:**
+  - Star Wars
+  - The Matrix
+  - Stranger Things
+
+- **Citação Favorita:**
+  > "It's not a bug. It's a feature." - Todo programador em algum momento
 
 Estou sempre em busca de novas oportunidades e desafios que me permitam crescer e contribuir com minha expertise. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
