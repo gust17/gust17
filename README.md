@@ -3,15 +3,15 @@
 
 ## Olá! Sou um Tech Lead focado em tecnologia! 👨‍💻
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos.
+Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades dos projetos em que estou envolvido.
 
 ### 💻 Linguagens e Tecnologias que Domino
 
-- **PHP**
-- **Laravel**
-- **Vue.js**
-- **Node.js**
-- **Adonis.js**
+- **PHP** ⚙️
+- **Laravel** 🔧
+- **Vue.js** 🖼️
+- **Node.js** 🌐
+- **Adonis.js** ⚡
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -65,18 +65,20 @@ Tenho algumas preferências específicas em relação à linguagem:
 ### 🎮 Referências Nerd
 
 - **Jogos Favoritos:**
-  - The Legend of Zelda: Breath of the Wild
-  - Final Fantasy VII
-  - The Witcher 3: Wild Hunt
+  - 🎮 The Legend of Zelda: Breath of the Wild
+  - 🎮 Final Fantasy VII
+  - 🎮 The Witcher 3: Wild Hunt
 
 - **Filmes e Séries Favoritos:**
-  - Star Wars
-  - The Matrix
-  - Stranger Things
+  - 🎬 Star Wars
+  - 🎬 The Matrix
+  - 📺 Stranger Things
 
 - **Citação Favorita:**
   > "It's not a bug. It's a feature." - Todo programador em algum momento
 
+### 🚀 Vamos Codar!
+
 Estou sempre em busca de novas oportunidades e desafios que me permitam crescer e contribuir com minha expertise. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
 
-🚀 **Vamos codar!**
+![Let's Code](https://media.giphy.com/media/3o7aCVzLQdX7aET5Is/giphy.gif)
