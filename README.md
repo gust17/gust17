@@ -26,5 +26,5 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis ut
 - **Desenvolvimento Ágil**: Prática com metodologias ágeis, como Scrum, para entrega eficiente de software.
 
 ## 📫 Entre em Contato
-- **LinkedIn**: [Seu LinkedIn](#)
-- **E-mail**: [Seu E-mail](#)
+- **LinkedIn**: https://www.linkedin.com/in/gustavopantojadev/(#)
+- **E-mail**: gustavo@codegus.com(#)
