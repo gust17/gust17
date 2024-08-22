@@ -1,65 +1,30 @@
 
-# 🚀 Sobre Mim
+# 👋 Olá! Eu sou [Seu Nome]
 
-## Olá! Sou um Tech Lead focado em tecnologia! 👨‍💻
+Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis utilizando uma ampla gama de tecnologias. Aqui, você encontrará exemplos que demonstram minhas habilidades e experiências com Node.js, Laravel, PHP, Vue.js, React, MySQL, OracleDB, MongoDB, e PostgreSQL.
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor dedicado com uma ampla experiência em diversas tecnologias. Atualmente, atuo como Tech Lead, liderando equipes e projetos desafiadores. Minha meta é buscar a melhoria contínua do meu trabalho, de forma responsável e proativa, entregando soluções eficazes e eficientes para os projetos em que atuo. Estou empenhado em acompanhar as tendências tecnológicas do mercado, aprimorando-me constantemente em diferentes linguagens e tecnologias para melhor atender às necessidades.
+## 🛠️ Habilidades Técnicas
 
----
+### Backend
+- **Node.js**: Desenvolvimento de APIs RESTful, aplicações em tempo real com WebSocket, e integração com bancos de dados NoSQL e SQL.
+- **Laravel**: Desenvolvimento de aplicações web robustas, sistemas de autenticação, APIs RESTful, e integração com serviços de terceiros.
+- **PHP**: Experiência com desenvolvimento web usando PHP puro e frameworks como Laravel.
 
-### 💻 Linguagens e Tecnologias que Domino
+### Frontend
+- **Vue.js**: Desenvolvimento de interfaces de usuário dinâmicas e responsivas, componentização, e integração com APIs.
+- **React**: Criação de aplicações de página única (SPAs), gerenciamento de estado com Redux, e desenvolvimento de componentes reutilizáveis.
 
-- **PHP** ⚙️
-- **Laravel** 🔧
-- **Vue.js** 🖼️
-- **Node.js** 🌐
-- **Adonis.js** ⚡
+### Bancos de Dados
+- **MySQL**: Design de esquemas, consultas complexas, otimização de desempenho, e uso de procedimentos armazenados.
+- **OracleDB**: Modelagem de dados, PL/SQL, e integração com aplicações corporativas.
+- **MongoDB**: Design de documentos, criação de índices, e utilização de agregações para análises de dados.
+- **PostgreSQL**: Consultas avançadas, triggers, views, e manipulação de JSONB.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Adonis.js](https://img.shields.io/badge/Adonis.js-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+## 🚀 Outras Experiências
+- **Integração de APIs**: Experiência em integração com várias APIs de serviços externos.
+- **Desenvolvimento Full Stack**: Capacidade de trabalhar tanto no backend quanto no frontend para criar soluções completas.
+- **Desenvolvimento Ágil**: Prática com metodologias ágeis, como Scrum, para entrega eficiente de software.
 
----
-
-### ⚙️ Skills
-
-#### PHP
-``` 
-█████████████████████ 95%
-```
-
-#### Laravel
-``` 
-█████████████████████ 95%
-```
-
-#### Vue.js
-``` 
-████████████████████ 90%
-```
-
-#### Node.js
-``` 
-███████████████████ 85%
-```
-
-#### Adonis.js
-``` 
-██████████████████ 80%
-```
-
----
-
-### 🔄 Habilidades de Versionamento
-
-Sou também um especialista em versionamento, utilizando ferramentas como Git para gerenciar o código-fonte de forma eficiente e colaborativa.
-
----
-
-
-### 🚀 Vamos Codar!
-
-Estou sempre em busca de novas oportunidades e desafios que me permitam crescer e contribuir com minha expertise. Se quiser saber mais ou colaborar em algum projeto, sinta-se à vontade para entrar em contato!
-
+## 📫 Entre em Contato
+- **LinkedIn**: [Seu LinkedIn](#)
+- **E-mail**: [Seu E-mail](#)
